@@ -81,7 +81,8 @@ body::before{
 
 .card:hover{
   box-shadow: 0 0 20px 0 rgba(0,0,0,0.3);
-  background: rgb(248, 255, 153);
+  background: #009DAE;
+  cursor: pointer;
   transform :translateY(-20PX);
 }
 
